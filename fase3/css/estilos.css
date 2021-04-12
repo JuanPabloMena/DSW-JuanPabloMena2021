@@ -1,0 +1,58 @@
+header{
+    background-color: slateblue;
+    text-align: center;
+
+}
+
+nav{
+    background-color: gainsboro;
+    margin: 0px 10px 0px 10px;
+    font-size: 17px;
+}
+
+section{
+    float: left;
+background-color: darkslateblue;
+margin: 0px 10px 0px 10px;
+}
+
+article{
+    float: left;
+background-color: gainsboro;
+margin: 0px 10px 0px 10px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    margin: 0px 10px 0px 10px;
+}
+
+
+.contenedor{
+ width: 70%;
+}
+
+a{
+    padding: 5px 5px;
+}
+
+a:link{
+    color: black;
+    
+}
+
+a:hover{
+    text-decoration:underline;
+    background-color: black;
+    color: white;
+}
+
+a:active{
+background-color: gold;
+}
+
+li{
+    margin: 3px 3px 3px 3px;
+    
+}
