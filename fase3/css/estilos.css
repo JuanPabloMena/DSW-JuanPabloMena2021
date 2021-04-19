@@ -16,13 +16,16 @@ section{
     float: left;
 background-color: darkslateblue;
 margin: 0px 10px 0px 10px;
+width: 70%;
 }
 
 article{
     float: left;
 background-color: gainsboro;
 margin: 0px 10px 0px 10px;
+width: 70%;
 }
+
 
 footer{
     background-color: black;
@@ -33,9 +36,7 @@ footer{
 }
 
 
-.contenedor{
- width: 70%;
-}
+
 
 a{
     padding: 5px 5px;
@@ -57,7 +58,7 @@ background-color: gold;
 }
 
 li{
-    margin: 3px 3px 3px 3px;
+    margin: 4px 4px 4px 4px;
     
 }
 img{
@@ -65,10 +66,3 @@ img{
     width: 230px;
 }
 
-.contenedor2{
-    width: 70%;
-}
-.contenedor3{
-    width: 300px;
-    
-}
